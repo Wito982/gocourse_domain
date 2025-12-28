@@ -1,4 +1,4 @@
-module github.com/gocourse_domain
+module github.com/Wito982/gocourse_domain
 
 go 1.25.2
 
